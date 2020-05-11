@@ -1,0 +1,3 @@
+﻿cls
+dotnet run
+pause
